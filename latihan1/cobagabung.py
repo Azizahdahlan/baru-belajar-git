@@ -1,3 +1,4 @@
+#coba nambah komentar disini
 from flask import Flask, render_template, request
 from flaskext.mysql import MySQL
 app = Flask(__name__)
